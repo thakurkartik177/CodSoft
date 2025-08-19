@@ -4,7 +4,8 @@ Showcasing my **Web Development projects** completed during my **CodSoft Interns
 
 ## Projects
 - **Personal Portfolio** – Smooth scrolling, interactive sections, and contact form.
-- **Starbucks Landing Page** – Responsive design with interactive elements.  
+- **Starbucks Landing Page** – Responsive design with interactive elements.
+- **Calculator** – A functional calculator with basic arithmetic operations.
 
 ## Tech
 HTML | CSS | JavaScript | GitHub
